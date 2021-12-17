@@ -1,0 +1,8 @@
+prefix=/root/Desktop/my_ws/install
+
+Name: my_control
+Description: Description of my_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/root/Desktop/my_ws/devel
+
+Name: my_srv
+Description: Description of my_srv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

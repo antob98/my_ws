@@ -1,0 +1,2 @@
+my_control:my_user:second_assignment
+-DCATKIN_DEVEL_PREFIX=/root/Desktop/my_ws/devel -DCMAKE_INSTALL_PREFIX=/root/Desktop/my_ws/install -G Unix Makefiles
